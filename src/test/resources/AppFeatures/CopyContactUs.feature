@@ -9,4 +9,3 @@ Then it shows a successful message "Your message has been successfully sent to o
 Examples:
 |SheetName|RowNumber|
 |contactus|0|
-|contactus|1|
