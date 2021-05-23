@@ -20,5 +20,4 @@ Then: user gets accounts section
 |MY ADDRESSES|
 |MY PERSONAL INFORMATION|
 |MY WISHLISTS|
-|Home|
 And: accounts section count should be 6
